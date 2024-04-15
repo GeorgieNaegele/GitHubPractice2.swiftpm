@@ -7,6 +7,7 @@ struct NounView: View {
         
         NavigationLink("To VerbView", destination: VerbView())
         
+   
     }
-    
-}
+       
+   }
